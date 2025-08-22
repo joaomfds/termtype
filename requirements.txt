@@ -1,3 +1,0 @@
-# Optional runtime dependency for Windows to provide the 'curses' module
-windows-curses; platform_system == "Windows"
-
